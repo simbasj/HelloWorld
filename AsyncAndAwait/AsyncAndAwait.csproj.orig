@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Branch.cs" />
+<<<<<<< HEAD
+=======
     <Compile Include="Network.cs" />
+>>>>>>> ss-features
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
